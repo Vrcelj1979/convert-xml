@@ -1,0 +1,836 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+	<Order>
+		<OrderId>3559075</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194713001</DealerId>
+		<Name>AVTO MOSTE d.o.o.</Name>
+		<Zip>1000</Zip>
+		<City>LJUBLJANA</City>
+		<Street>KAJUHOVA ULICA 32A</Street>
+		<PacketId>556196S</PacketId>
+		<PkMatType>A8</PkMatType>
+		<PkWeight>2.1000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559075</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194713001</DealerId>
+		<Name>AVTO MOSTE d.o.o.</Name>
+		<Zip>1000</Zip>
+		<City>LJUBLJANA</City>
+		<Street>KAJUHOVA ULICA 32A</Street>
+		<PacketId>597453L</PacketId>
+		<PkMatType>602</PkMatType>
+		<PkWeight>29.5000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559076</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194772001</DealerId>
+		<Name>AVTOHISA HVALEC</Name>
+		<Zip>2325</Zip>
+		<City>KIDRICEVO</City>
+		<Street>LOVRENSKA CESTA 3.</Street>
+		<PacketId>596068L</PacketId>
+		<PkMatType>A12</PkMatType>
+		<PkWeight>2.1000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559077</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194773001</DealerId>
+		<Name>AVTOCENTER TROBEC s.p.</Name>
+		<Zip>1000</Zip>
+		<City>LJUBLJANA</City>
+		<Street>DOLGI MOST 18.</Street>
+		<PacketId>554951S</PacketId>
+		<PkMatType>A2</PkMatType>
+		<PkWeight>1.0000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559077</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194773001</DealerId>
+		<Name>AVTOCENTER TROBEC s.p.</Name>
+		<Zip>1000</Zip>
+		<City>LJUBLJANA</City>
+		<Street>DOLGI MOST 18.</Street>
+		<PacketId>596071L</PacketId>
+		<PkMatType>660</PkMatType>
+		<PkWeight>20.8000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559077</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194773001</DealerId>
+		<Name>AVTOCENTER TROBEC s.p.</Name>
+		<Zip>1000</Zip>
+		<City>LJUBLJANA</City>
+		<Street>DOLGI MOST 18.</Street>
+		<PacketId>596076L</PacketId>
+		<PkMatType>LS</PkMatType>
+		<PkWeight>19.6000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559077</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194773001</DealerId>
+		<Name>AVTOCENTER TROBEC s.p.</Name>
+		<Zip>1000</Zip>
+		<City>LJUBLJANA</City>
+		<Street>DOLGI MOST 18.</Street>
+		<PacketId>596085L</PacketId>
+		<PkMatType>LS</PkMatType>
+		<PkWeight>6.6000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559077</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194773001</DealerId>
+		<Name>AVTOCENTER TROBEC s.p.</Name>
+		<Zip>1000</Zip>
+		<City>LJUBLJANA</City>
+		<Street>DOLGI MOST 18.</Street>
+		<PacketId>597485L</PacketId>
+		<PkMatType>A6</PkMatType>
+		<PkWeight>10.8000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559078</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194774001</DealerId>
+		<Name>AVTO TAVCAR d.o.o.</Name>
+		<Zip>6210</Zip>
+		<City>SEZANA</City>
+		<Street>PARTIZANSKA CESTA 84.</Street>
+		<PacketId>555005S</PacketId>
+		<PkMatType>A2</PkMatType>
+		<PkWeight>1.7000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559078</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194774001</DealerId>
+		<Name>AVTO TAVCAR d.o.o.</Name>
+		<Zip>6210</Zip>
+		<City>SEZANA</City>
+		<Street>PARTIZANSKA CESTA 84.</Street>
+		<PacketId>597267L</PacketId>
+		<PkMatType>LS</PkMatType>
+		<PkWeight>5.3000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559079</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194778001</DealerId>
+		<Name>ADRIA PLUS d.o.o.</Name>
+		<Zip>SL-800</Zip>
+		<City>NOVO MESTO</City>
+		<Street>PODBEVSKOVA 13</Street>
+		<PacketId>554984S</PacketId>
+		<PkMatType>LS</PkMatType>
+		<PkWeight>3.2000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559079</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194778001</DealerId>
+		<Name>ADRIA PLUS d.o.o.</Name>
+		<Zip>SL-800</Zip>
+		<City>NOVO MESTO</City>
+		<Street>PODBEVSKOVA 13</Street>
+		<PacketId>555009S</PacketId>
+		<PkMatType>A12</PkMatType>
+		<PkWeight>2.4000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559080</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194972001</DealerId>
+		<Name>AVTOHISA KOLMANIC &amp; Co. d.o.o.</Name>
+		<Zip>SL-200</Zip>
+		<City>MARIBOR</City>
+		<Street>AVTOMOBILSKA ULICA 12.</Street>
+		<PacketId>554946S</PacketId>
+		<PkMatType>A12</PkMatType>
+		<PkWeight>10.7000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559080</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194972001</DealerId>
+		<Name>AVTOHISA KOLMANIC &amp; Co. d.o.o.</Name>
+		<Zip>SL-200</Zip>
+		<City>MARIBOR</City>
+		<Street>AVTOMOBILSKA ULICA 12.</Street>
+		<PacketId>555002S</PacketId>
+		<PkMatType>ENV</PkMatType>
+		<PkWeight>0.4000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559080</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194972001</DealerId>
+		<Name>AVTOHISA KOLMANIC &amp; Co. d.o.o.</Name>
+		<Zip>SL-200</Zip>
+		<City>MARIBOR</City>
+		<Street>AVTOMOBILSKA ULICA 12.</Street>
+		<PacketId>597406L</PacketId>
+		<PkMatType>606</PkMatType>
+		<PkWeight>34.4000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559080</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194972001</DealerId>
+		<Name>AVTOHISA KOLMANIC &amp; Co. d.o.o.</Name>
+		<Zip>SL-200</Zip>
+		<City>MARIBOR</City>
+		<Street>AVTOMOBILSKA ULICA 12.</Street>
+		<PacketId>597415L</PacketId>
+		<PkMatType>LS</PkMatType>
+		<PkWeight>6.1000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559080</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194972001</DealerId>
+		<Name>AVTOHISA KOLMANIC &amp; Co. d.o.o.</Name>
+		<Zip>SL-200</Zip>
+		<City>MARIBOR</City>
+		<Street>AVTOMOBILSKA ULICA 12.</Street>
+		<PacketId>597440L</PacketId>
+		<PkMatType>333</PkMatType>
+		<PkWeight>5.7000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559080</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194972001</DealerId>
+		<Name>AVTOHISA KOLMANIC &amp; Co. d.o.o.</Name>
+		<Zip>SL-200</Zip>
+		<City>MARIBOR</City>
+		<Street>AVTOMOBILSKA ULICA 12.</Street>
+		<PacketId>597442L</PacketId>
+		<PkMatType>638</PkMatType>
+		<PkWeight>12.2000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559081</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194973001</DealerId>
+		<Name>AVTOTEHNA VIS d.o.o.</Name>
+		<Zip>SL-100</Zip>
+		<City>LJUBLJANA</City>
+		<Street>CELOVKA 228</Street>
+		<PacketId>555000S</PacketId>
+		<PkMatType>ENV</PkMatType>
+		<PkWeight>0.2000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559081</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194973001</DealerId>
+		<Name>AVTOTEHNA VIS d.o.o.</Name>
+		<Zip>SL-100</Zip>
+		<City>LJUBLJANA</City>
+		<Street>CELOVKA 228</Street>
+		<PacketId>555007S</PacketId>
+		<PkMatType>A6</PkMatType>
+		<PkWeight>1.1000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559081</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194973001</DealerId>
+		<Name>AVTOTEHNA VIS d.o.o.</Name>
+		<Zip>SL-100</Zip>
+		<City>LJUBLJANA</City>
+		<Street>CELOVKA 228</Street>
+		<PacketId>556203S</PacketId>
+		<PkMatType>606</PkMatType>
+		<PkWeight>41.6000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559081</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194973001</DealerId>
+		<Name>AVTOTEHNA VIS d.o.o.</Name>
+		<Zip>SL-100</Zip>
+		<City>LJUBLJANA</City>
+		<Street>CELOVKA 228</Street>
+		<PacketId>597380L</PacketId>
+		<PkMatType>PAL</PkMatType>
+		<PkWeight>301.2000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559081</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194973001</DealerId>
+		<Name>AVTOTEHNA VIS d.o.o.</Name>
+		<Zip>SL-100</Zip>
+		<City>LJUBLJANA</City>
+		<Street>CELOVKA 228</Street>
+		<PacketId>597429L</PacketId>
+		<PkMatType>603</PkMatType>
+		<PkWeight>79.0000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559081</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194973001</DealerId>
+		<Name>AVTOTEHNA VIS d.o.o.</Name>
+		<Zip>SL-100</Zip>
+		<City>LJUBLJANA</City>
+		<Street>CELOVKA 228</Street>
+		<PacketId>597431L</PacketId>
+		<PkMatType>606</PkMatType>
+		<PkWeight>42.7000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559081</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194973001</DealerId>
+		<Name>AVTOTEHNA VIS d.o.o.</Name>
+		<Zip>SL-100</Zip>
+		<City>LJUBLJANA</City>
+		<Street>CELOVKA 228</Street>
+		<PacketId>597450L</PacketId>
+		<PkMatType>603</PkMatType>
+		<PkWeight>88.3000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559082</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194974001</DealerId>
+		<Name>AVTOTEHNA VIS, d.o.o., PE ISTRA AVTO</Name>
+		<Zip>SL-600</Zip>
+		<City>KOPER</City>
+		<Street>MARSKA CESTA 5/A</Street>
+		<PacketId>554934S</PacketId>
+		<PkMatType>A2</PkMatType>
+		<PkWeight>0.7000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559082</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194974001</DealerId>
+		<Name>AVTOTEHNA VIS, d.o.o., PE ISTRA AVTO</Name>
+		<Zip>SL-600</Zip>
+		<City>KOPER</City>
+		<Street>MARSKA CESTA 5/A</Street>
+		<PacketId>597413L</PacketId>
+		<PkMatType>LS</PkMatType>
+		<PkWeight>9.0000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559082</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194974001</DealerId>
+		<Name>AVTOTEHNA VIS, d.o.o., PE ISTRA AVTO</Name>
+		<Zip>SL-600</Zip>
+		<City>KOPER</City>
+		<Street>MARSKA CESTA 5/A</Street>
+		<PacketId>597416L</PacketId>
+		<PkMatType>496</PkMatType>
+		<PkWeight>2.5000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559083</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194975001</DealerId>
+		<Name>AVTO CENTER CELEIA d.o.o.</Name>
+		<Zip>SL-300</Zip>
+		<City>CELJE</City>
+		<Street>MARIBORSKA 107</Street>
+		<PacketId>554989S</PacketId>
+		<PkMatType>A12</PkMatType>
+		<PkWeight>10.1000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559083</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194975001</DealerId>
+		<Name>AVTO CENTER CELEIA d.o.o.</Name>
+		<Zip>SL-300</Zip>
+		<City>CELJE</City>
+		<Street>MARIBORSKA 107</Street>
+		<PacketId>595940L</PacketId>
+		<PkMatType>649</PkMatType>
+		<PkWeight>69.5000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559084</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194976001</DealerId>
+		<Name>SAWAL d.o.o.</Name>
+		<Zip>SL-623</Zip>
+		<City>POSTOJNA</City>
+		<Street>TRZASKA 61</Street>
+		<PacketId>554997S</PacketId>
+		<PkMatType>ENV</PkMatType>
+		<PkWeight>0.1000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559085</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194976999</DealerId>
+		<Name>SAWAL d.o.o.</Name>
+		<Zip>5000</Zip>
+		<City>NOVA GORICA</City>
+		<Street>ULICA VINKA VODOPIVCA 16.</Street>
+		<PacketId>554947S</PacketId>
+		<PkMatType>A8</PkMatType>
+		<PkWeight>2.5000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559085</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194976999</DealerId>
+		<Name>SAWAL d.o.o.</Name>
+		<Zip>5000</Zip>
+		<City>NOVA GORICA</City>
+		<Street>ULICA VINKA VODOPIVCA 16.</Street>
+		<PacketId>597460L</PacketId>
+		<PkMatType>496</PkMatType>
+		<PkWeight>0.9000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559085</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194976999</DealerId>
+		<Name>SAWAL d.o.o.</Name>
+		<Zip>5000</Zip>
+		<City>NOVA GORICA</City>
+		<Street>ULICA VINKA VODOPIVCA 16.</Street>
+		<PacketId>597475L</PacketId>
+		<PkMatType>LS</PkMatType>
+		<PkWeight>3.7000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559085</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194976999</DealerId>
+		<Name>SAWAL d.o.o.</Name>
+		<Zip>5000</Zip>
+		<City>NOVA GORICA</City>
+		<Street>ULICA VINKA VODOPIVCA 16.</Street>
+		<PacketId>597483L</PacketId>
+		<PkMatType>A6</PkMatType>
+		<PkWeight>5.4000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559085</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194976999</DealerId>
+		<Name>SAWAL d.o.o.</Name>
+		<Zip>5000</Zip>
+		<City>NOVA GORICA</City>
+		<Street>ULICA VINKA VODOPIVCA 16.</Street>
+		<PacketId>597488L</PacketId>
+		<PkMatType>333</PkMatType>
+		<PkWeight>10.2000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559086</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194978001</DealerId>
+		<Name>AVTOHISA KOLMANIC &amp; DOKL d.o.o.</Name>
+		<Zip>SL-900</Zip>
+		<City>MURSKA SOBOTA</City>
+		<Street>INDUSTRIJSKA 1</Street>
+		<PacketId>556192S</PacketId>
+		<PkMatType>A2</PkMatType>
+		<PkWeight>1.3000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559086</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194978001</DealerId>
+		<Name>AVTOHISA KOLMANIC &amp; DOKL d.o.o.</Name>
+		<Zip>SL-900</Zip>
+		<City>MURSKA SOBOTA</City>
+		<Street>INDUSTRIJSKA 1</Street>
+		<PacketId>597476L</PacketId>
+		<PkMatType>LS</PkMatType>
+		<PkWeight>4.1000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559086</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>194978001</DealerId>
+		<Name>AVTOHISA KOLMANIC &amp; DOKL d.o.o.</Name>
+		<Zip>SL-900</Zip>
+		<City>MURSKA SOBOTA</City>
+		<Street>INDUSTRIJSKA 1</Street>
+		<PacketId>597503L</PacketId>
+		<PkMatType>690</PkMatType>
+		<PkWeight>16.4000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559087</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>197401001</DealerId>
+		<Name>Avtohisa Kolmanic &amp; CO Si02</Name>
+		<Zip>2000</Zip>
+		<City>Maribor</City>
+		<Street>Avtomobilska Ulica 12</Street>
+		<PacketId>554986S</PacketId>
+		<PkMatType>A6</PkMatType>
+		<PkWeight>1.3000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559087</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>197401001</DealerId>
+		<Name>Avtohisa Kolmanic &amp; CO Si02</Name>
+		<Zip>2000</Zip>
+		<City>Maribor</City>
+		<Street>Avtomobilska Ulica 12</Street>
+		<PacketId>597268L</PacketId>
+		<PkMatType>A10</PkMatType>
+		<PkWeight>1.2000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559087</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>197401001</DealerId>
+		<Name>Avtohisa Kolmanic &amp; CO Si02</Name>
+		<Zip>2000</Zip>
+		<City>Maribor</City>
+		<Street>Avtomobilska Ulica 12</Street>
+		<PacketId>597281L</PacketId>
+		<PkMatType>496</PkMatType>
+		<PkWeight>4.3000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559088</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>197402001</DealerId>
+		<Name>Istra Avto Si04</Name>
+		<Zip>6000</Zip>
+		<City>Koper</City>
+		<Street>Smarska Cesta 5'</Street>
+		<PacketId>555003S</PacketId>
+		<PkMatType>A10</PkMatType>
+		<PkWeight>2.8000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559089</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>197406001</DealerId>
+		<Name>AVTOTEHNA VIS D.O.O. SI13</Name>
+		<Zip>1000</Zip>
+		<City>LJUBLJANA</City>
+		<Street>CELOVSKA 228</Street>
+		<PacketId>554988S</PacketId>
+		<PkMatType>A6</PkMatType>
+		<PkWeight>3.7000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559089</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>197406001</DealerId>
+		<Name>AVTOTEHNA VIS D.O.O. SI13</Name>
+		<Zip>1000</Zip>
+		<City>LJUBLJANA</City>
+		<Street>CELOVSKA 228</Street>
+		<PacketId>554990S</PacketId>
+		<PkMatType>A10</PkMatType>
+		<PkWeight>2.4000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559089</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>197406001</DealerId>
+		<Name>AVTOTEHNA VIS D.O.O. SI13</Name>
+		<Zip>1000</Zip>
+		<City>LJUBLJANA</City>
+		<Street>CELOVSKA 228</Street>
+		<PacketId>595974L</PacketId>
+		<PkMatType>A12</PkMatType>
+		<PkWeight>2.5000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559090</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>197408001</DealerId>
+		<Name>AVTOHISA SELISKAR D.O.O. SI18</Name>
+		<Zip>1360</Zip>
+		<City>VRHNIKA</City>
+		<Street>BETAJNOVA 16</Street>
+		<PacketId>555011S</PacketId>
+		<PkMatType>A12</PkMatType>
+		<PkWeight>2.2000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559091</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>197412001</DealerId>
+		<Name>AC FRI-MOBIL D.O.O. SI27</Name>
+		<Zip>3000</Zip>
+		<City>CELJE</City>
+		<Street>DECKOVA 43</Street>
+		<PacketId>554995S</PacketId>
+		<PkMatType>ENV</PkMatType>
+		<PkWeight>0.4000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+	<Order>
+		<OrderId>3559092</OrderId>
+		<OrderDate>2017.10.03</OrderDate>
+		<Country>SI</Country>
+		<DealerId>197417999</DealerId>
+		<Name>SAWAL D.O.O.</Name>
+		<Zip>5000</Zip>
+		<City>NOVA GORICA</City>
+		<Street>INDUSTRIJSKA CESTA 5</Street>
+		<PacketId>554999S</PacketId>
+		<PkMatType>ENV</PkMatType>
+		<PkWeight>0.5000</PkWeight>
+		<Status />
+		<StatusNote />
+		<StatusDateTime />
+		<ErrorCode />
+	</Order>
+</Orders>
